@@ -12,10 +12,10 @@ class App extends React.Component {
         if (WavesKeeper) {
             WavesKeeper.auth( authData )
             .then(auth => {
-                console.log( auth ); //displaying the result on the console
+                console.log( auth ); //exibe o resultado no console
                 /*...processing data */
             }).catch(error => {
-                console.error( error ); // displaying the result on the console
+                console.error( error ); // exibe o resultado no console
                 /*...processing errors */
             })
         } else {
