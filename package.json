@@ -12,7 +12,7 @@
         "@waves/provider-keeper": "^0.1.3",
         "@waves/provider-ledger": "^0.1.2",
         "@waves/provider-seed": "^0.1.1",
-        "@waves/signer": "^1.0.5",
+        "@waves/signer": "^1.0.1",
         "@waves/waves-transactions": "^4.2.1-beta.7",
         "babel": "^6.23.0",
         "babel-core": "^6.26.3",
